@@ -33,4 +33,12 @@ button {
     color: inherit;
     cursor: pointer;
 }
-
+/* 
+img,
+picture,
+video,
+canva,
+svg {
+    display: block;
+    max-width: 100%;
+}*/
