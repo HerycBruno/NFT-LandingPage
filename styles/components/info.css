@@ -13,11 +13,8 @@
 
 .items-wrapper {
     display: flex;
-<<<<<<< HEAD
     margin-top: 4rem;
-=======
     margin-top: 3rem;
->>>>>>> f3b6a90679f2c7134388be1768fe30cd2dfe5ba9
     gap: 1.5rem;
     flex-wrap: nowrap;
     padding-inline: 1.25rem;
@@ -31,11 +28,8 @@
 .item__title {
 font-size: 2.5rem;
 font-weight: 600;
-<<<<<<< HEAD
 line-height: 2.3rem;
-=======
 line-height: 0.5;
->>>>>>> f3b6a90679f2c7134388be1768fe30cd2dfe5ba9
 text-align: center;
 }
 
@@ -43,10 +37,9 @@ text-align: center;
 color: rgba(255, 255, 255, 0.7);
 text-transform: uppercase;
 text-align: center;
+margin-top: 11px;
 }
 
-
-<<<<<<< HEAD
 /* Info Wrapper */
 .info-wrapper{
 display: flex;
@@ -114,17 +107,4 @@ flex: 1;
         font-size: 2rem;
     }
 }
-=======
 
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> f3b6a90679f2c7134388be1768fe30cd2dfe5ba9
